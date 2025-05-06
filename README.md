@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Habtamu Teklehimanot Gebregziabher
+- 👋 Hi, I’m Haftamu Teklehimanot Gebregziabher
 - 👀 I’m interested in Python programming and I'm also ML enthusiast
 - 🌱 I’m currently learning Computer Science at Microlink College, Addis Ababa, Ethiopia.
 - 💞️ I’m looking to collaborate on Data Science and Machine learning projects
