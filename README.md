@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Haftamu Teklehimanot Gebregziabher
 - 👀 I’m interested in Python programming and I'm also ML enthusiast
 - 🌱 I’m currently learning Computer Science at Microlink College, Addis Ababa, Ethiopia.
-- 💞️ I’m looking to collaborate on Data Science and Machine learning projects
+- 🚀 I’m looking to collaborate on Data Science and Machine learning projects
 - 📫 You can reach me using Emai:- haftayteklehimanot@gmail.com Telegram:-@y3hab
 - 😄 Pronouns: he/him
 - ⚡ Don't forget to reach me out whatever is in your head!!!!
